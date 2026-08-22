@@ -1,0 +1,11 @@
+ARQUIVOS DE INDEXAÇÃO
+
+Os arquivos public/robots.txt e public/sitemap.xml foram adicionados ao projeto.
+
+Antes de publicar, substitua:
+https://seu-dominio.com
+
+pelo domínio final do seu site.
+
+Exemplo:
+https://meusite.com

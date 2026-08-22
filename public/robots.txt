@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Altere o domínio abaixo pelo domínio final do seu projeto
+Sitemap: https://seu-dominio.com/sitemap.xml
